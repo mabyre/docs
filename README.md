@@ -1,1 +1,3 @@
 # docs
+
+This repo is needed to making GitHub Pages ...
