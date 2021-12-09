@@ -1,5 +1,7 @@
 # docs
 
+The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't you them the Jekyll's style is apply but you see it on the page, ugly !
+
 This repo is needed to making GitHub Pages ...
 
 [GitHub Pages](https://docs.github.com/en/pages)
