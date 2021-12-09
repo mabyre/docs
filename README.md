@@ -8,4 +8,4 @@ This repo is needed to making GitHub Pages ...
 
 [Look at docs on web](https://mabyre.github.io/docs)
 
-[FirstPost](https://mabyre.github.io/docs/_post/2021-12-09-first-post.md)
+[First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
