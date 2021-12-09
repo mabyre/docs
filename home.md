@@ -1,6 +1,10 @@
+---
+
 layout: home
 title: "Home Page"
-permalink: /maison/
+permalink: /home/
+
+---
 
 # This my HOME page new post
 Here we will have many interessting things
