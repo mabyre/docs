@@ -4,4 +4,4 @@ This repo is needed to making GitHub Pages ...
 
 [GitHub Pages](https://docs.github.com/en/pages)
 
-[look at docs on web](https://mabyre.github.io/docs)
+[Look at docs on web](https://mabyre.github.io/docs)
