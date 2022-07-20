@@ -14,7 +14,7 @@ This repo is needed to making GitHub Pages ...
 
 [First Post but not in GitHub Pages](https://github.com/mabyre/docs/blob/fe1b0c1edac821adf740c823f23428e27741b96d/posts/2021-12-09-first-post.md)
 
-There is many usings of GitHub Pages 
+## There is many usings of GitHub Pages 
 
 [GitHub Pages examples](https://github.com/collections/github-pages-examples)
 
