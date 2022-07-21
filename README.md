@@ -4,8 +4,6 @@ The less we can say is that's not working find, if you use the "---" to hide the
 
 This repo is needed to making GitHub Pages ...
 
-[Help on GitHub Pages](https://docs.github.com/en/pages)
-
 [Home page](https://mabyre.github.io/docs/home)
 
 [Look at docs on web](https://mabyre.github.io/docs)
@@ -13,6 +11,10 @@ This repo is needed to making GitHub Pages ...
 [First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
 
 [First Post but not in GitHub Pages](https://github.com/mabyre/docs/blob/fe1b0c1edac821adf740c823f23428e27741b96d/posts/2021-12-09-first-post.md)
+
+## Need Help on GitHub Pages
+
+[Help on GitHub Pages](https://docs.github.com/en/pages)
 
 ## There is many usings of GitHub Pages 
 
