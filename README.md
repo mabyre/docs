@@ -2,7 +2,7 @@
 
 The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't, the them the Jekyll's style is apply but you see the tags on the page, ugly !
 
-Is this only working fine? No! It's not but I can think that I wad creating a GitHup Pages site at the earlier beginning so they let me create a GitHub Pages named "docs" then it should not be named like this but more like <user>.github.io or <organization>.github.io.
+Is this only working fine? No! It's not but I can think that I wad creating a GitHup Pages site at the earlier beginning so they let me create a GitHub Pages named "docs" then it should not be named like this but more like <user\>.github.io or <organization\>.github.io.
 
 **Grr...**
 
