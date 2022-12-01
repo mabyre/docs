@@ -1,5 +1,11 @@
 # docs
 
+This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
+
+How to really use Jekyll I lost the control 4 month ago I gave up the keyboard cause this was really hard to pass the deployment Error on error.
+
+I know want to know what I was missing
+
 The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't, the them the Jekyll's style is apply but you see the tags on the page, ugly !
 
 Is this only working fine? No! It's not but I can think that I wad creating a GitHup Pages site at the earlier beginning so they let me create a GitHub Pages named "docs" then it should not be named like this but more like <user\>.github.io or <organization\>.github.io.
@@ -24,7 +30,6 @@ This repo is needed to making GitHub Pages ...
 
 [Help on GitHub Pages](https://docs.github.com/en/pages)
 
-## There is many usings of GitHub Pages 
+## There is many usings of GitHub Pages
 
 [GitHub Pages examples](https://github.com/collections/github-pages-examples)
-
