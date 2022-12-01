@@ -40,7 +40,7 @@ This repo is needed to making GitHub Pages ...
 
 ## GitHub Docs formatting on GitHub
 
-[Getting started with writing and formatting on GitHub](<https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github>)
+[Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ## GitHub Docs on GitHub Pages
 
@@ -48,7 +48,7 @@ This repo is needed to making GitHub Pages ...
 
 ## GitHub Docs on GitHub Pages & Jeckyll
 
-[About GitHub Pages and Jekyll]<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll>
+[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 ## Example usings of GitHub Pages
 
