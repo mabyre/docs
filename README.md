@@ -38,17 +38,13 @@ This repo is needed to making GitHub Pages ...
 
 > mabyre.github.io/docs/posts/home
 
-## GitHub Docs formatting on GitHub
+## GitHub Docs
 
-[Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
-## GitHub Docs on GitHub Pages
+* [Help on GitHub Pages](https://docs.github.com/en/pages)
 
-[Help on GitHub Pages](https://docs.github.com/en/pages)
-
-## GitHub Docs on GitHub Pages & Jeckyll
-
-[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+* [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 ## Example usings of GitHub Pages
 
