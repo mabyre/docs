@@ -46,6 +46,10 @@ This repo is needed to making GitHub Pages ...
 
 [Help on GitHub Pages](https://docs.github.com/en/pages)
 
-## There is many usings of GitHub Pages
+## Help on GitHub Pages & Jeckyll
+
+[About GitHub Pages and Jekyll](<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll>)
+
+## Example usings of GitHub Pages
 
 [GitHub Pages examples](https://github.com/collections/github-pages-examples)
