@@ -4,7 +4,11 @@ This site is Jeckyll because it has a configuration file named _config.yml in ya
 
 How to really use Jekyll I lost the control 4 month ago I gave up the keyboard cause this was really hard to pass the deployment Error on error.
 
-I know want to know what I was missing
+I now want to know what I was missing.
+
+## Using Jeckyll
+
+## About Jeckyll
 
 The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't, the them the Jekyll's style is apply but you see the tags on the page, ugly !
 
@@ -26,7 +30,11 @@ This repo is needed to making GitHub Pages ...
 
 [Posts Home](https://mabyre.github.io/docs/posts/home)
 
-## Need Help on GitHub Pages
+## Help formatting on GitHub
+
+[Getting started with writing and formatting on GitHub](<https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github>)
+
+## Help on GitHub Pages
 
 [Help on GitHub Pages](https://docs.github.com/en/pages)
 
