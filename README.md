@@ -16,15 +16,15 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 ## This GitHub Pages on Jeckyll
 
+[docs on web](https://mabyre.github.io/docs)
+
+> mabyre.github.io/docs
+
 This repo is needed to making GitHub Pages ...
 
 [Home page](https://mabyre.github.io/docs/home)
 
 > mabyre.github.io/docs/home
-
-[Look at docs on web](https://mabyre.github.io/docs)
-
-> mabyre.github.io/docs
 
 [First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
 
