@@ -6,8 +6,6 @@ How to really use Jekyll, I lost the control 4 month ago I gave up the keyboard 
 
 I now want to know what I was missing.
 
-## Using Jeckyll
-
 ## About Jeckyll
 
 The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't, the them the Jekyll's style is apply but you see the tags on the page, ugly !
@@ -47,6 +45,8 @@ This repo is needed to making GitHub Pages ...
 * [Help on GitHub Pages](https://docs.github.com/en/pages)
 
 * [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+* [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
 
 ## Example usings of GitHub Pages
 
