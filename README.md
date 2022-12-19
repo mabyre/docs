@@ -16,6 +16,8 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 **Grr...**
 
+## This GitHub Pages on Jeckyll
+
 This repo is needed to making GitHub Pages ...
 
 [Home page](https://mabyre.github.io/docs/home)
@@ -48,4 +50,4 @@ This repo is needed to making GitHub Pages ...
 
 ## Example usings of GitHub Pages
 
-[GitHub Pages examples](https://github.com/collections/github-pages-examples)
+* [GitHub Pages examples](https://github.com/collections/github-pages-examples)
