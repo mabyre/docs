@@ -15,6 +15,15 @@ To get the Build :
 
 ## Error 2
 
-Error 1
+> Configuration file: none
+> Logging at level: debug
+> GitHub Pages: github-pages v227
+> GitHub Pages: jekyll v3.9.2
+> Theme: jekyll-theme-primer
+> Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0
+> Requiring: jekyll-github-metadata
+>To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+> Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+> No such file or directory @ dir_chdir - /github/workspace/docs
 
 <img style="margin: 10px" src="https://github.com/mabyre/docs/blob/master/images/2022-07-21_16h02_29.png" alt="Error" />
