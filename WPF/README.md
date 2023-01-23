@@ -2,8 +2,6 @@
 
 # WPF Documentation
 
-Notes on WPF
+Here we will find notes on WPF development
 
-## Template Studio
-
-[Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
+- [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
