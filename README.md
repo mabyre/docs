@@ -2,9 +2,9 @@
 
 My Docs obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
 
-[WPF](https://github.com/mabyre/docs/tree/master/WPF)
+- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
 
-    [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
+  - [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
 
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
 
@@ -46,14 +46,14 @@ This repo is needed to making GitHub Pages ...
 
 ## Help on GitHub & Jekyll
 
-* [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
-* [Help on GitHub Pages](https://docs.github.com/en/pages)
+- [Help on GitHub Pages](https://docs.github.com/en/pages)
 
-* [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+- [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
-* [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
+- [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
 
 ## Example usings of GitHub Pages
 
-* [GitHub Pages examples](https://github.com/collections/github-pages-examples)
+- [GitHub Pages examples](https://github.com/collections/github-pages-examples)
