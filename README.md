@@ -2,7 +2,7 @@
 
 My Docs obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
 
-[WPF](https://mabyre.github.io/docs/wpf)
+[WPF](https://mabyre.github.io/docs/wpf/)
 
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
 
