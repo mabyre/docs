@@ -4,6 +4,8 @@ My Docs obviously Jeckyll is not mandatory because readme.md is the fisrt page r
 
 [WPF](https://github.com/mabyre/docs/tree/master/WPF)
 
+    [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
+
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
 
 How to really use Jekyll, I lost the control 4 month ago I gave up the keyboard cause this was really hard to pass the deployment, this was error on error again.
