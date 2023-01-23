@@ -1,5 +1,9 @@
 # docs
 
+My Docs obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
+
+[WPF](https://mabyre.github.io/docs/wpf)
+
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
 
 How to really use Jekyll, I lost the control 4 month ago I gave up the keyboard cause this was really hard to pass the deployment, this was error on error again.
@@ -38,7 +42,7 @@ This repo is needed to making GitHub Pages ...
 
 > mabyre.github.io/docs/posts/home
 
-## GitHub Docs
+## Help on GitHub & Jekyll
 
 * [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
