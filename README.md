@@ -34,7 +34,7 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 [First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
 
-'Due to a Jekyll's error this site is fixed in the past'
+**Due to a Jekyll's error this site is fixed in the past**
 
 [Post2](https://mabyre.github.io/docs/posts/2022-07-21-post2)
 
