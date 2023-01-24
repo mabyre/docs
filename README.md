@@ -1,6 +1,6 @@
-# docs
+# My docs
 
-My Docs obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
+Obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
 
 - [WPF](https://github.com/mabyre/docs/tree/master/WPF)
 
@@ -22,38 +22,28 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 ## This GitHub Pages on Jeckyll
 
-[docs on web](https://mabyre.github.io/docs)
-
 > mabyre.github.io/docs
 
-This repo is needed to making GitHub Pages ...
-
-[Home page](https://mabyre.github.io/docs/home)
+[docs on web](https://mabyre.github.io/docs)
 
 > mabyre.github.io/docs/home
 
-[First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
+[Home page](https://mabyre.github.io/docs/home)
 
 > mabyre.github.io/docs/posts/2021-12-09-first-post
+
+[First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
+
+'Due to a Jekyll's error this site is fixed in the past'
 
 [Post2](https://mabyre.github.io/docs/posts/2022-07-21-post2)
 
 [First Post but not in GitHub Pages](https://github.com/mabyre/docs/blob/fe1b0c1edac821adf740c823f23428e27741b96d/posts/2021-12-09-first-post.md)
 
-[Posts Home](https://mabyre.github.io/docs/posts/home)
-
 > mabyre.github.io/docs/posts/home
 
-## Help on GitHub & Jekyll
+[Posts Home](https://mabyre.github.io/docs/posts/home)
 
-- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+## Jekyll is an error
 
-- [Help on GitHub Pages](https://docs.github.com/en/pages)
-
-- [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
-
-- [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
-
-## Example usings of GitHub Pages
-
-- [GitHub Pages examples](https://github.com/collections/github-pages-examples)
+[Jekyll's Error](https://mabyre.github.io/error)
