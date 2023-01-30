@@ -8,4 +8,4 @@ Sur the aim is not to make an exhaustive documentation of Visual Studio this is 
 
 It found It not easy to first create repo in GitHub then to use this created repo into Visual Studio. What I found is to create github repo directly in Visual Studio :
 
-<img style="margin: 10px" src="https://github.com/mabyre/docs/blob/master/WPF/images/2023-01-30_10h47_24.png" alt="Create Github repo directly in Visual Studio" />
+<img style="margin: 10px" src="images/2023-01-30_10h47_24.png" alt="Create Github repo directly in Visual Studio" />
