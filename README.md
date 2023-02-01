@@ -1,4 +1,4 @@
-# My documentation
+# My Documentation
 
 - [WPF-Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
 
