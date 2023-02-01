@@ -1,20 +1,16 @@
-# My docs
+# My documentation
 
-Obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF
-
-- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
-
-  - [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
+- [WPF-Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
 
+## About Jeckyll
+
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
 
+Obviously Jeckyll is not mandatory because readme.md is the fisrt page read in each directory I can do make some public docs starting with WPF.
+
 How to really use Jekyll, I lost the control 4 month ago I gave up the keyboard cause this was really hard to pass the deployment, this was error on error again.
-
-I now want to know what I was missing.
-
-## About Jeckyll
 
 The less we can say is that's not working find, if you use the "---" to hide the Jekyll's tag there are not used and the style is none. If you don't, the them the Jekyll's style is apply but you see the tags on the page, ugly !
 

@@ -1,10 +1,14 @@
 [Home](https://github.com/mabyre/docs)
 
-## Wizard
+## Sources
 
-[Root-TemplateStudio-WPF](https://github.com/microsoft/TemplateStudio/blob/main/docs/WPF/getting-started-endusers.md)
+- [TemplateStudio-WPF-getting-started-endusers](https://github.com/microsoft/TemplateStudio/blob/main/docs/WPF/getting-started-endusers.md)
+
+## Wizard Template
 
 ### Type Projet
+
+Choose your porject's great structure
 
 - Navigation Pane
 - MenuBar
@@ -12,6 +16,8 @@
 - Ribbon
 
 ### Design Pattern
+
+We are definitely not going to choose CodeBehind ;)
 
 - MvvM
 - CodeBehind
