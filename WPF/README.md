@@ -1,6 +1,6 @@
 [Home](https://github.com/mabyre/docs)
 
-## Sources
+## References
 
 - [WPF-Samples](https://github.com/microsoft/WPF-Samples)
 

@@ -1,6 +1,6 @@
 [Home](https://github.com/mabyre/docs)
 
-## Sources
+## References
 
 - [TemplateStudio-WPF-getting-started-endusers](https://github.com/microsoft/TemplateStudio/blob/main/docs/WPF/getting-started-endusers.md)
 
