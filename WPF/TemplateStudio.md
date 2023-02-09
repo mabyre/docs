@@ -19,7 +19,7 @@ Choose your porject's great structure
 
 We are definitely not going to choose CodeBehind ;)
 
-- MvvM
+- CommunityToolKit.MvvM
 - CodeBehind
 - Prism
 
