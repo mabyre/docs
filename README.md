@@ -15,11 +15,14 @@ Solution is to use HMTL PTDR DOL (dead of laughing) !
 I am a success message
 </div>
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;" content="I am a success message"/>
+
 Add it does not work Grrr !
 
 ### Try this 
 
 > **Note**
+>
 > This is a note
 
 > **Warning**
@@ -28,7 +31,12 @@ Add it does not work Grrr !
 > **Error**
 > This is an error
 
-### Is this wor ?
+> **Check**
+> This is OK
+
+
+
+### Is this work ?
 
 | :exclamation:  This is very important   |
 |-----------------------------------------|
