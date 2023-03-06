@@ -4,6 +4,8 @@
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
 
+[About Jecky](#about-jeckyll)
+
 
 ## How to make boxes, success, error, info in markdown ?
 
@@ -13,9 +15,9 @@ Solution is to use HMTL PTDR DOL (dead of laughing) !
 I am a success message
 </div>
 
-Add it does not work GGGGGGGRRRR
+Add it does not work Grrr !
 
-Try this 
+### Try this 
 
 > **Note**
 > This is a note
@@ -25,6 +27,34 @@ Try this
 
 > **Error**
 > This is an error
+
+### Is this wor ?
+
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+
+
+| :zap:        Ignore at your own risk!   |
+|-----------------------------------------|
+
+
+| :memo:        | Take note of this       |
+|---------------|:------------------------|
+
+
+| :point_up:    | Remember to not forget! |
+|---------------|:------------------------|
+
+
+
+| :warning: WARNING          |
+|:---------------------------|
+| I should warn you ...      |
+
+
+| :boom: DANGER              |
+|:---------------------------|
+| Will explode when clicked! |
 
 
 ## About Jeckyll
