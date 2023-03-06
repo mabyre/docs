@@ -13,6 +13,20 @@ Solution is to use HMTL PTDR DOL (dead of laughing) !
 I am a success message
 </div>
 
+Add it does not work GGGGGGGRRRR
+
+Try this 
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
+> **Error**
+> This is an error
+
+
 ## About Jeckyll
 
 This site is Jeckyll because it has a configuration file named _config.yml in yamal ...
