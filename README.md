@@ -15,8 +15,6 @@ Solution is to use HMTL PTDR DOL (dead of laughing) !
 I am a success message
 </div>
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;" content="I am a success message"/>
-
 Add it does not work Grrr !
 
 ### Try this 
@@ -26,6 +24,10 @@ Add it does not work Grrr !
 > This is a note
 
 > **Warning**
+> This is a warning
+
+> **Warning**
+>
 > This is a warning
 
 > **Error**
@@ -64,6 +66,13 @@ Add it does not work Grrr !
 |:---------------------------|
 | Will explode when clicked! |
 
+>:boom:
+>
+> Bomber message
+
+>:warning:
+>
+>Warnig message
 
 ## About Jeckyll
 
