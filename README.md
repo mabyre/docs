@@ -1,11 +1,14 @@
 # My Documentation
 
-- [WPF-Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
+- [Blazor](/tree/master/Balzor)
+
+- [WPF - Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
 
 [About Jecky](#about-jeckyll)
 
+[Source code](#Source-code)
 
 ## How to make boxes, success, error, info in markdown ?
 
@@ -77,6 +80,15 @@ Add it does not work Grrr !
 >:warning:
 >
 >Warnig message
+
+## Source code
+
+```csharp
+// Demo services
+builder.Services.AddScoped<ThemeService>();
+builder.Services.AddScoped<CompilerService>();
+builder.Services.AddScoped<ExampleService>();
+```
 
 ## About Jeckyll
 
