@@ -1,6 +1,6 @@
 # My Documentation
 
-- [Blazor](./tree/master/Balzor)
+- [Blazor](https://github.com/mabyre/docs/tree/master/Blazor)
 
 - [WPF - Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
 
