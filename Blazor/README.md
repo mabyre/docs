@@ -2,12 +2,11 @@
 
 ## References
 
-- [GitHub - radzen-blazor](https://github.com/radzenhq/radzen-blazor)
-
+- [DotNET Microsoft Balzor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 ## Documentation
 
-- [Radzen](/Radzen.md)
+- [Radzen](https://github.com/mabyre/docs/blob/master/Blazor/Radzen.md)
 
     
 

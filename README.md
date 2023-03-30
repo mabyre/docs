@@ -2,13 +2,14 @@
 
 - [Blazor](https://github.com/mabyre/docs/tree/master/Blazor)
 
-- [WPF - Windows Presentation Foundation](https://github.com/mabyre/docs/tree/master/WPF)
+- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
-
-[About Jecky](#about-jeckyll)
+                  
 
 [Source code](#Source-code)
+
+[About Jecky](#About-Jeckyll)
 
 ## How to make boxes, success, error, info in markdown ?
 

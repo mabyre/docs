@@ -20,10 +20,10 @@
 
 ## Documentation
 
-- [C#.NET WPF-Samples-Discovering](https://csharp-dotnet.sodevlog.com/2023/01/wpf-samples-discovering.html)
+- [C#.NET - WPF Samples - Discovering](https://csharp-dotnet.sodevlog.com/2023/01/wpf-samples-discovering.html)
 
     Here we will find notes on WPF development with Template Studio. Aim is to complete root documentation with my own research.
 
-- [Template Studio](https://github.com/mabyre/docs/blob/master/WPF/TemplateStudio.md)
+- [Template Studio](https://github.com/mabyre/docs/blob/master/wpf/templatestudio.md)
     
 
