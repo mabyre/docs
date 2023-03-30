@@ -6,7 +6,7 @@
 
 ## Documentation
 
-- [Radzen](https://github.com/mabyre/docs/blob/master/Blazor/Radzen.md)
+- [Radzen](https://github.com/mabyre/docs/blob/master/Blazor/Radzen)
 
     
 
