@@ -5,6 +5,10 @@
 - [WPF](https://github.com/mabyre/docs/tree/master/WPF)
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
+
+- SaveSoftwareVersion
+
+    DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
                   
 
 [Source code](#Source-code)
