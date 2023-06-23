@@ -1,19 +1,24 @@
 # My Documentation
 
-- [Blazor](https://github.com/mabyre/docs/tree/master/Blazor)
+I found it wery usefull to put it there thanks to **Gihub pages**.
 
-- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
+[Why you should always code !](https://www.youtube.com/@kodaps_fr)
+
+### Major themes
 
 - [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
-
-- SaveSoftwareVersion
+- [Blazor](https://github.com/mabyre/docs/tree/master/Blazor)
+- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
+- [SaveSoftwareVersion](https://github.com/mabyre/docs/tree/master/SaveSoftwareVersion)
 
     DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
-                  
 
-[Source code](#Source-code)
+- [JavaScript](https://github.com/mabyre/docs/tree/master/JavaScript)                  
 
-[About Jecky](#About-Jeckyll)
+### In this page
+
+- [Source code](#Source-code)
+- [About Jeckyll](#About-Jeckyll)
 
 ## How to make boxes, success, error, info in markdown ?
 
