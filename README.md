@@ -13,7 +13,13 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 
     DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
 
-- [JavaScript](https://github.com/mabyre/docs/tree/master/JavaScript)                  
+- [JavaScript](https://github.com/mabyre/docs/tree/master/JavaScript)       
+
+#### GitHub
+
+It could be usefull to some time check your connection applications, this conduct to **My Page**:
+
+- https://github.com/settings/connections/applications/879675f7c1829f6c4c2c
 
 ### In this page
 
