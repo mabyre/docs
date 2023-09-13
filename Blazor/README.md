@@ -6,7 +6,7 @@
 
 ## Documentation
 
-- [Radzen](https://github.com/mabyre/docs/blob/master/Blazor/Radzen)
+- [Radzen](./Blazor/Radzen)
 
 ## Strange Things
 

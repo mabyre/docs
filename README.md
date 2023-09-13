@@ -1,19 +1,21 @@
 # My Documentation
 
+Published url [Mabyre/Docs](https://mabyre.github.io/docs/)
+
 I found it wery usefull to put it there thanks to **Gihub pages**.
 
 [Why you should always code !](https://www.youtube.com/@kodaps_fr)
 
 ### Major themes
 
-- [Visual Studio](https://github.com/mabyre/docs/tree/master/VisualStudio)
-- [Blazor](https://github.com/mabyre/docs/tree/master/Blazor)
-- [WPF](https://github.com/mabyre/docs/tree/master/WPF)
-- [SaveSoftwareVersion](https://github.com/mabyre/docs/tree/master/SaveSoftwareVersion)
+- [Visual Studio](./VisualStudio)
+- [Blazor](./Blazor)
+- [WPF](./WPF)
+- [SaveSoftwareVersion](./SaveSoftwareVersion)
 
     DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
 
-- [JavaScript](https://github.com/mabyre/docs/tree/master/JavaScript)       
+- [JavaScript](./JavaScript)       
 
 #### GitHub
 

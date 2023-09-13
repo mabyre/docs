@@ -24,6 +24,6 @@
 
     Here we will find notes on WPF development with Template Studio. Aim is to complete root documentation with my own research.
 
-- [Template Studio](https://github.com/mabyre/docs/blob/master/wpf/templatestudio.md)
+- [Template Studio](./wpf/templatestudio.md)
     
 
