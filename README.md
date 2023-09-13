@@ -1,6 +1,6 @@
 # My Documentation
 
-Published url [Mabyre/Docs](https://mabyre.github.io/docs/)
+**Published url:** [https://mabyre.github.io/docs/](https://mabyre.github.io/docs/)
 
 I found it wery usefull to put it there thanks to **Gihub pages**.
 
