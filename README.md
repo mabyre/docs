@@ -119,7 +119,19 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 **Grr...**
 
-## This GitHub Pages on Jeckyll
+## This GitHub Pages on Jeckyll or not !
+
+### Pages
+
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+---
 
 > mabyre.github.io/docs
 
