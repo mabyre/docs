@@ -1,7 +1,5 @@
 # My Documentation
 
-**Published url:** [https://mabyre.github.io/docs/](https://mabyre.github.io/docs/)
-
 I found it wery usefull to put it there thanks to **Gihub pages**.
 
 [Why you should always code !](https://www.youtube.com/@kodaps_fr)
@@ -12,8 +10,7 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 - [Blazor](./Blazor)
 - [WPF](./WPF)
 - [SaveSoftwareVersion](./SaveSoftwareVersion)
-
-    DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
+    - DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
 
 - [JavaScript](./JavaScript)       
 
