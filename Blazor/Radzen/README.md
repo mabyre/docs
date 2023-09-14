@@ -1,4 +1,4 @@
-[Home](../../) > [Blazor](../) > Radzen
+# Radzen
 
 I'm so surprise to dicover that in few clics I can run radzen site on my local machine with all source code that I would like to discover this professional Balzor application.
 
@@ -24,3 +24,7 @@ builder.Services.AddScoped<ExampleService>();
 ```
 
 You have the special ThemeService ...
+
+---
+
+[Home](../../) > [Blazor](../) > Radzen
