@@ -126,7 +126,7 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 <ul>
   {% for page in site.pages %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href=".{{page.url}}">{{page.title}}</a>
     </li>
   {% endfor %}
 </ul>
