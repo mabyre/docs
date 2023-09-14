@@ -1,3 +1,3 @@
-[First Post](https://mabyre.github.io/docs/posts/2021-12-09-first-post)
+[First Post](./2021-12-09-first-post.md)
 
-[Post2](https://mabyre.github.io/docs/posts/2022-07-21-post2.md)
+[Post2](2022-07-21-post2.md)
