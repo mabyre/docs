@@ -1,4 +1,6 @@
-[Home](https://github.com/mabyre/docs)
+# WPF
+
+Windows Presentation Foundation
 
 ## References
 
@@ -24,6 +26,6 @@
 
     Here we will find notes on WPF development with Template Studio. Aim is to complete root documentation with my own research.
 
-- [Template Studio](./wpf/templatestudio.md)
+- [Template Studio](./TemplateStudio.md)
     
 

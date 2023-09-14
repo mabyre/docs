@@ -1,5 +1,3 @@
-[Home](https://github.com/mabyre/docs)
-
 # JavaScript
 
 Yes I know, I said **NEVER JavaScript** ! But I design for the World Wild Web. I will try to make some documentation about JavaScript. So there are my notes.

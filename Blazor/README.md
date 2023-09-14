@@ -1,4 +1,6 @@
-[Home](https://github.com/mabyre/docs)
+# Blazor
+
+Documentation for Blazor tech
 
 ## References
 

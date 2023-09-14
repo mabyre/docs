@@ -1,4 +1,4 @@
-[Home](https://github.com/mabyre/docs/tree/master/WPF)
+[Home](../) > [WPF](./) > TemplateStudio
 
 ## References
 

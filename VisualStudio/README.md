@@ -1,5 +1,3 @@
-[Home](https://github.com/mabyre/docs)
-
 # Visual Studio Documentation
 
 Sur the aim is not to make an exhaustive documentation of Visual Studio this is not for a human being. The aim is tho atake some very small documentation of what I found in Visual Studio

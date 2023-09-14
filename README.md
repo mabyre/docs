@@ -20,10 +20,10 @@ It could be usefull to some time check your connection applications, this conduc
 
 - https://github.com/settings/connections/applications/879675f7c1829f6c4c2c
 
-### In this page
+### Summary
 
-- [Source code](#Source-code)
-- [About Jeckyll](#About-Jeckyll)
+- [Source code](#source-code)
+- [About Jeckyll](#about-jeckyll)
 
 ## How to make boxes, success, error, info in markdown ?
 
