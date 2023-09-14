@@ -6,7 +6,7 @@
 
 ## Documentation
 
-- [Radzen](./Blazor/Radzen)
+- [Radzen](./Radzen)
 
 ## Strange Things
 

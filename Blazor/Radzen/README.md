@@ -4,7 +4,7 @@ I'm so surprise to dicover that in few clics I can run radzen site on my local m
 
 I just had to add the project RadzenBlazorDemos.Host.csproj in the solution that was missing ... ?
 
-<img style="margin: 10px" src="https://github.com/mabyre/docs/blob/master/Blazor/Radzen/images/2023-03-30_03h59_59.png" alt="Template Studio Radzen" />
+<img style="margin: 10px" src="images/2023-03-30_03h59_59.png" alt="Template Studio Radzen" />
 
 ## References
 
