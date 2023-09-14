@@ -14,7 +14,7 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 
 - [JavaScript](./JavaScript)       
 
-#### GitHub
+### GitHub
 
 It could be usefull to some time check your connection applications, this conduct to **My Page**:
 
@@ -24,7 +24,17 @@ It could be usefull to some time check your connection applications, this conduc
 
 - [Source code](#source-code)
 - [About Jeckyll](#about-jeckyll)
-- [All pages](#pages)
+- [Jekyll is an error](#jekyll-is-an-error)
+
+### Pages
+
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href=".{{page.url}}">{{page.title}}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## How to make boxes, success, error, info in markdown ?
 
@@ -122,25 +132,9 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 
 ## This GitHub Pages on Jeckyll or not !
 
-### Pages
-
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href=".{{page.url}}">{{page.title}}</a>
-    </li>
-  {% endfor %}
-</ul>
-
----
-
 > mabyre.github.io/docs
 
 [docs on web](https://mabyre.github.io/docs)
-
-> mabyre.github.io/docs/home
-
-[Home page](https://mabyre.github.io/docs/home)
 
 > mabyre.github.io/docs/posts/2021-12-09-first-post
 
@@ -157,5 +151,7 @@ Is this only working fine? No! It's not but I can think that I wad creating a Gi
 [Posts Home](https://mabyre.github.io/docs/posts/home)
 
 ## Jekyll is an error
+
+[Jekyll's](https://mabyre.github.io)
 
 [Jekyll's Error](https://mabyre.github.io/error)
