@@ -7,6 +7,7 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 ### Major themes
 
 - [Visual Studio](./VisualStudio)
+- [MAUI](./MAUI)
 - [Blazor](./Blazor)
 - [WPF](./WPF)
 - [SaveSoftwareVersion](./SaveSoftwareVersion)
