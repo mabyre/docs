@@ -4,6 +4,8 @@ Yes I know, I said **NEVER JavaScript** ! But I design for the World Wild Web. I
 
 I'm starting with a video [Fatigue JavaScript](https://www.youtube.com/watch?v=Bjt1bFrMggs)
 
+To have an idea of [JavaScript Evolution](https://2022.stateofjs.com/en-US/)
+
 ## packages-lock.json
 
 So why they don't commit there packages-lock.json ? You should **always commit your packages-lock.json**. This is a good practice:
