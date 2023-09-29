@@ -4,7 +4,7 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 
 [Why you should always code !](https://www.youtube.com/@kodaps_fr)
 
-### Major themes
+## Major themes
 
 - [Visual Studio](./VisualStudio)
 - [MAUI](./MAUI)
@@ -15,19 +15,23 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 
 - [JavaScript](./JavaScript)       
 
-### GitHub
+## GitHub
 
 It could be usefull to some time check your connection applications, this conduct to **My Page**:
 
 - [Applications that have permission to My GitHub](https://github.com/settings/connections/applications/879675f7c1829f6c4c2c)
 
-### Summary
+### Github Users
+
+- [Jean-Michel Fayard](https://github.com/jmfayard)
+
+## Summary
 
 - [Source code](#source-code)
 - [About Jeckyll](#about-jeckyll)
 - [Jekyll is an error](#jekyll-is-an-error)
 
-### Pages
+## Pages
 
 <ul>
   {% for page in site.pages %}
