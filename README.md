@@ -2,6 +2,8 @@
 
 I found it wery usefull to put it there thanks to **Gihub pages**.
 
+[Site's publication url](https://mabyre.github.io/docs/)
+
 [Why you should always code !](https://www.youtube.com/@kodaps_fr)
 
 ## Major themes
