@@ -2,6 +2,10 @@
 layout: post
 ---
 
+## Breafscrubs
+
+{% include breadcrumbs.html %}
+
 ## Post to use includes
 
 Interesting to see how includes are used

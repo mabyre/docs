@@ -27,6 +27,12 @@ It could be usefull to some time check your connection applications, this conduc
 
 - [The Programming Historian - Jekyll](https://github.com/programminghistorian/jekyll)
 
+### Jekyll efficient doc
+
+The big problem with Jekyll is **documentation**.
+
+- https://jekyllcodex.org/
+
 ### Github Users
 
 - [Jean-Michel Fayard](https://github.com/jmfayard)
