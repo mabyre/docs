@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Home page for Posts"
+---
+
 # Home page for posts
 
 [First Post](./2021-12-09-first-post.md)
