@@ -2,7 +2,7 @@
 title:  "Home page for Posts"
 authors:
 - Bruno Raby
-layout: default
+layout: post
 ---
 
 # Home page for posts
