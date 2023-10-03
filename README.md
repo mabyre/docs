@@ -33,6 +33,7 @@ It could be usefull to some time check your connection applications, this conduc
 
 ## Summary
 
+- [Posts](#posts)
 - [Source code](#source-code)
 - [About Jeckyll](#about-jeckyll)
 - [Jekyll is an error](#jekyll-is-an-error)
@@ -53,7 +54,6 @@ It could be usefull to some time check your connection applications, this conduc
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
