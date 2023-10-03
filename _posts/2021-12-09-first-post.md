@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "First Jekyll post on server"
+title: "First Jekyll post on server"
 ---
 
 # Here it is
