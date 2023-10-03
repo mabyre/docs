@@ -1,1 +1,26 @@
+{% comment %}
+This template assembles principal page components (standard HTML header, menu bar, page content, and footer). The page
+content is held in a wrapper div (called "container"), which sets the standard page width.
+
+This is the standard template used by ALL site pages EXCEPT the home page and lessons pages (which have full-window
+bleeds and therefore cannot have all page content wrapped in the "container" div; they use the base template).
+{% endcomment %}
+
+<!DOCTYPE html>
+<html>
+
 {% include header.html %}
+
+<body>
+
+    <div class="container">
+        <article>
+            {{content}}
+        </article>
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
