@@ -23,6 +23,10 @@ It could be usefull to some time check your connection applications, this conduc
 
 - [Applications that have permission to My GitHub](https://github.com/settings/connections/applications/879675f7c1829f6c4c2c)
 
+### Jekyll samples on GitHub
+
+- [The Programming Historian - Jekyll](https://github.com/programminghistorian/jekyll)
+
 ### Github Users
 
 - [Jean-Michel Fayard](https://github.com/jmfayard)
