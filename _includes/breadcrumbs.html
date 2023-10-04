@@ -1,17 +1,12 @@
 <div id="breadcrumbs">
     {% assign crumbs = page.url | split:'/' -%}
-    {% for crumb in crumbs %}
-    <p>{{ crumb }}</p>
-    {% endfor %}
     <a href="{{ site.baseurl }}">Home</a>
     {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
     > {{ page.title }}
     {% else %}
-    >
-    {% assign crumb_limit = forloop.index | plus: 1 %}
+    > {% assign crumb_limit = forloop.index | plus: 1 %}
     {% for crumb in crumbs limit: crumb_limit %}
-    <p>{{ crumb }}</p>
     <a href="{{ site.baseurl | append: '/' | append: crumb }}">
         {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
     {% endfor %}
