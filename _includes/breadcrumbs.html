@@ -2,7 +2,6 @@
     {% assign crumbs = page.url | split: '/' | append: {{ site.baseurl }} %}
     <a href="{{ site.baseurl }}">Home</a>
     {% for crumb in crumbs offset: 1 %}
-    {{ crumb }}
     {% if forloop.last %}
     > {{ page.title }}
     {% else %}
