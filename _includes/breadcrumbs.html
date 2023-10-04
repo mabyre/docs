@@ -4,7 +4,7 @@
     <p>{{ crumb }}</p>
     {% endfor %}
     <a href="{{ site.baseurl }}">Home</a>
-    {% for crumb in crumbs %}
+    {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
     > {{ page.title }}
     {% else %}
