@@ -12,7 +12,7 @@
     {% assign crumb_limit = forloop.index | plus: 1 %}
     {% for crumb in crumbs limit: crumb_limit %}
     <p>{{ crumb }}</p>
-    <a href="{{ site.baseurl | concat: crumb }}">
+    <a href="{{ site.baseurl | append: crumb }}">
         {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
     {% endfor %}
     {% endif %}
