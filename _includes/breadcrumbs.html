@@ -1,6 +1,7 @@
 <div id="breadcrumbs">
-    {% assign crumbs = page.url | split: '/' | append: {{ site.baseurl }} %}
-    <a href="{{ site.baseurl }}">Home</a>
+    {% assign baseurl = site.baseurl %}
+    {% assign crumbs = page.url | split: '/' | append: baseurl %}
+    <a href="baseurl">Home</a>
     {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
     > {{ page.title }}
