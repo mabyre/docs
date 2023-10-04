@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Breafscrubs
+## Breadcrumbs
 
 {% include breadcrumbs.html %}
 

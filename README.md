@@ -33,6 +33,12 @@ The big problem with Jekyll is **documentation**.
 
 - https://jekyllcodex.org/
 
+Look at Breadcrumbs it's just a shit, better have a look inin this site
+
+- https://shopify.github.io/liquid/
+
+It's the template language
+
 ### Github Users
 
 - [Jean-Michel Fayard](https://github.com/jmfayard)
