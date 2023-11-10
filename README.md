@@ -21,7 +21,8 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 
 It could be usefull to some time check your connection applications, this conduct to **My Page**:
 
-- [Applications that have permission to My GitHub](https://github.com/settings/connections/applications/879675f7c1829f6c4c2c)
+- [Applications that have permission to My GitHub](https://github.com/settings/connections/applications/)
+- [Tokens that I have given for permission to My GitHub](https://github.com/settings/tokens/)
 
 ### Jekyll samples on GitHub
 
