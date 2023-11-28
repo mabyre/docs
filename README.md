@@ -12,8 +12,9 @@ I found it wery usefull to put it there thanks to **Gihub pages**.
 - [MAUI](./MAUI)
 - [Blazor](./Blazor)
 - [WPF](./WPF)
-- [SaveSoftwareVersion](./SaveSoftwareVersion)
+- [DosCommand](./DosCommand)
     - DOS Style tool like to save a all software version from a directory tree thanks to XCOPY
+    - Clear All files in subdirectories
 
 - [JavaScript](./JavaScript)       
 
